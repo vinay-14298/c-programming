@@ -1,2 +1,2 @@
 # c-programming
-My hackerrank c programming work has been attached.
+My hackerrank C programming work has been attached.
